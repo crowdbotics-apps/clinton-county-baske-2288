@@ -1,0 +1,3 @@
+rootProject.name = 'clinton_county_baske_2288'
+
+include ':app'
